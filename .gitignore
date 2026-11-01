@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos temporales de inspección
+*.html
+extraer.py
